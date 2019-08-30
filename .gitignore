@@ -1,0 +1,5 @@
+#Incluir cualquier directorio node_modules
+**/node_modules
+
+# build-analytics
+.build-analytics
