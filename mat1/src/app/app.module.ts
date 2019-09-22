@@ -7,7 +7,7 @@ import { AppComponent } from "./app.component";
 
 import { HttpClientModule } from "@angular/commmon/http";
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
-import { MatToolbarmodule, MatIconModule, MatSideNavModule, MatListModule, MatButtonModule } from "@angular/material";
+import { MatToolbarmodule, MatIconModule, MatSideNavModule, MatListModule, MatButtonModule, MatToolbarModule } from "@angular/material";
 
 @NgModule({
   declarations: [AppComponent],
